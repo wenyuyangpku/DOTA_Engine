@@ -17,7 +17,7 @@ git clone https://github.com/wenyuyangpku/DOTA_Engine.git
 ```
 Install  [Anaconda](https://docs.anaconda.com/anaconda/install/), which we will use as the environment manager. To install the requirements using [conda](http://conda.pydata.org/), run the following at the command-line:
 ```
-$ pip install --r requirements.txt
+$ pip install -r requirements.txt
 ```
 To create a stand-alone environment named  `DOTA`  with Python 3.5 and all the required package versions, run the following:
 ```
